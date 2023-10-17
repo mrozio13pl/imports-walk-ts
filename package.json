@@ -1,6 +1,6 @@
 {
   "name": "imports-walk-ts",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Find 'import' and 're-export' statements in typescript using babel parser.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
