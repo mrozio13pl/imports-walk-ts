@@ -43,6 +43,11 @@ Source, where `import` and `re-export` statements will be looked for.
 Type: `Object`<br>
 Options are the same as [babel parser options](https://babeljs.io/docs/babel-parser#options).
 
+## Related
+
+- [imports-walk](https://github.com/mrozio13pl/imports-walk) - Find `import` and `re-export` statements of an ES6 module.
+- [requires-walk](https://github.com/mrozio13pl/requires-walk) - Find `require()` calls.
+
 ## License
 
 MIT 💖
